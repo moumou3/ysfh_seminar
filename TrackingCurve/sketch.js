@@ -16,7 +16,7 @@ function setup() {
   POLYNUM = 20;
   createCanvas(canvaswidth, canvasheight); // initialize canvas for drawing
   MAXITR = 1000;
-  radius = 100;
+  radius = 400;
   delta = 0.1;
 
   drawStart();
