@@ -1,0 +1,3 @@
+[submodule "SieveOfEratosthenes"]
+	path = SieveOfEratosthenes
+	url = https://github.com/matzTada/SieveOfEratosthenes.git
