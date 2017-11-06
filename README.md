@@ -14,3 +14,7 @@ https://moumou3.github.io/ysfh_seminar/TrackingCurve/index.html
 <img src="https://github.com/moumou3/ysfh_seminar/wiki/images/tracking_scratch.png" alt="trackscratch" title="trackscratch">
 
 https://scratch.mit.edu/projects/183489318/
+
+<img src="https://github.com/moumou3/ysfh_seminar/wiki/images/gasket.png" alt="gasket" title="gasket">
+
+https://moumou3.github.io/ysfh_seminar/SierpinskiGasket/index.html
